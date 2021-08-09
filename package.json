@@ -1,0 +1,14 @@
+{
+  "name": "js-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Convert.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
